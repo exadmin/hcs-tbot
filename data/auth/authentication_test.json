@@ -1,0 +1,54 @@
+[
+  {
+    "tgNickname": "exadmin",
+    "friendlyName": "Ilya Smirnov",
+    "credModels": [
+      {
+        "serviceId": "ivsbyt.ru",
+        "login": "2097020",
+        "password": "LXvCWuvdWj3dCHy"
+      },
+      {
+        "serviceId": "ivstar.net",
+        "login": "exadmin",
+        "password": "8c9mCtAF!"
+      },
+      {
+        "serviceId": "mosenergosbyt.ru",
+        "login": "+79109219200",
+        "password": "TL@-2S++!TfKQF!"
+      },
+      {
+        "serviceId": "iv-teploset.ru",
+        "login": "exadmin@mail.ru",
+        "password": "mGzUFuWF5hjRW9W"
+      }
+    ]
+  },
+  {
+    "tgNickname": "fake-user",
+    "friendlyName": "Fake user 2",
+    "credModels": [
+      {
+        "serviceId": "ivsbyt.ru",
+        "login": "2097020",
+        "password": "LXvCWuvdWj3dCHy"
+      },
+      {
+        "serviceId": "ivstar.net",
+        "login": "exadmin",
+        "password": "8c9mCtAF!"
+      },
+      {
+        "serviceId": "mosenergosbyt.ru",
+        "login": "+79109219200",
+        "password": "TL@-2S++!TfKQF!"
+      },
+      {
+        "serviceId": "iv-teploset.ru",
+        "login": "exadmin@mail.ru",
+        "password": "mGzUFuWF5hjRW9W"
+      }
+    ]
+  }
+]

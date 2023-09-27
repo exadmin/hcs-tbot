@@ -1,0 +1,12 @@
+{
+  "client": {
+    "username": "exadmin",
+    "services": [
+      "service" :
+      {
+        "name" : "I",
+        "site_url":        "https://lkk.ivsbyt.ru/login"
+      }
+    ]
+  }
+}
