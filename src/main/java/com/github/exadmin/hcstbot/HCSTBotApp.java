@@ -3,8 +3,6 @@ package com.github.exadmin.hcstbot;
 import com.github.exadmin.hcstbot.services.ServicesCrawler;
 import com.github.exadmin.hcstbot.telegram.TelegramBotService;
 
-import java.io.File;
-import java.io.FileInputStream;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Properties;

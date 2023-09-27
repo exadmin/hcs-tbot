@@ -1,8 +1,6 @@
 package com.github.exadmin.hcstbot.telegram.reply;
 
 import com.pengrad.telegrambot.model.Update;
-import com.pengrad.telegrambot.request.SendMessage;
-import com.pengrad.telegrambot.response.SendResponse;
 
 public class DefaultMessageProcessor extends AbstractMessageProcessor {
     @Override
